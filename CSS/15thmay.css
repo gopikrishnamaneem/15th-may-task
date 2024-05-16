@@ -113,3 +113,113 @@
     border-radius: 50px;
     background: green;
 }
+
+#un1{
+    border: 1px solid black;
+    height: 800px;
+    width: 1000px;
+    margin-left: 80px;
+    background-image: url("https://t4.ftcdn.net/jpg/02/43/75/73/360_F_243757367_gBpS6R5c8DB7pL5gw9gi9KXlzFfbdZOA.jpg");
+    
+}
+
+#un2{
+    border: 1px solid grey;
+    border-radius:80%;
+    margin-left: 25px;
+    margin-top: 30px;
+    height: 700px;
+    width:950px ;
+    
+}
+#un3{
+    border: 1px solid grey;
+    border-radius:80%;
+    height: 600px;
+    width:800px ;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+#un4{
+    border: 1px solid grey;
+    border-radius:80%;
+    height: 500px;
+    width:700px ;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#un5{
+    border: 1px solid grey;
+    border-radius:80%;
+    height: 400px;
+    width:600px ;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#un6{
+    border: 1px solid grey;
+    border-radius:80%;
+    height: 300px;
+    width:500px ;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#un7{
+    border: 1px solid grey;
+    border-radius:80%;
+    height: 200px;
+    width:300px ;
+    margin-top: 50px;
+    margin-left: 100px;
+    background: rgba(226, 63, 4, 0.986);
+}
+#sun{
+    border: 1px solid black;
+    border-radius:80%;
+    height: 200px;
+    width:300px ;
+    margin-bottom: 70%;
+    
+}
+#mercury{
+    height: 30px;
+    width: 50px;
+    margin-left: 25%;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+#venus{
+    height: 30px;
+    width: 50px;
+    margin-left: 25%;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+#earth{
+    height: 30px;
+    width: 50px;
+    margin-left: 25%;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+#mars{
+    height: 30px;
+    width: 50px;
+    margin-left: 25%;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+#jupiter{
+    height: 30px;
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 25%;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+#universe{
+    border: 1px solid black;
+    height: 800px;
+    width: 1000px;
+}
